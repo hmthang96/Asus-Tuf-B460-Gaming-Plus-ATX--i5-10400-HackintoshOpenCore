@@ -25,6 +25,7 @@ Da kich hoat duoc DW1560 tren Bigsur bang cach xoa file AirPortBrcm4360_Injector
 
 Da sua duoc loi BIOS thuong xuyen vao Safemode sau moi lan restart bang cach chinh lai DisableRTCChecksum -> False
 
+Problem : DRM, Apple TV+ , Netflix on Safari still not working
 ____________________________________________
 Ver 0.1
 Based on Catalina 10.15.5 and Opencore 0.6.3
