@@ -1,11 +1,14 @@
 # Asus-Tuf-B460-Gaming-Plus-ATX--i5-10400-HackintoshOpenCore
 This is my EFI folder which is built by Dortania guide
 
-Phien ban 0.3 moi minh se tu build lai acpi bang ssdt time thay vi dung san prebuil
 
-What's new!!
-
+What's new v0.3!!
+- ACPI build by SSDT Time Tool.
+- Intel quick syns now is working fully when I add RX 580 Graphics.
++ DRM still is not working.
++ RX 580 consumes 30w when computer is idle ( Windows 10 is 12~15W)
 ![alt text](https://github.com/hmthang96/Asus-Tuf-B460-Gaming-Plus-ATX--i5-10400-HackintoshOpenCore/blob/main/pictures/Bigsur.png?raw=true)
+![alt text](https://github.com/hmthang96/Asus-Tuf-B460-Gaming-Plus-ATX--i5-10400-HackintoshOpenCore/blob/main/pictures/2.png?raw=true)
 
 
 Ver 0.2
