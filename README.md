@@ -1,3 +1,12 @@
+I5 10400
+GPU RX 580 8gb
+Ram 48Gb
+Main: Asus Tuf Gaming B460
+Wifi: DW1560
+SSD: Micron SATA 1TB
+Monitor: Samsung 28'
+
+
 What's new!
 - Fix USB 3.0 ( see below)
 - Fix Bios go to Safe mode after shutdown
