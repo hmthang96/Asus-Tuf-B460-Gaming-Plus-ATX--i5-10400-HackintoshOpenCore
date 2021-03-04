@@ -1,10 +1,10 @@
-I5 10400
-GPU RX 580 8gb
-Ram 48Gb
-Main: Asus Tuf Gaming B460
-Wifi: DW1560
-SSD: Micron SATA 1TB
-Monitor: Samsung 28'
+-I5 10400
+-GPU RX 580 8gb
+-Ram 48Gb
+-Main: Asus Tuf Gaming B460
+-Wifi: DW1560
+-SSD: Micron SATA 1TB
+-Monitor: Samsung 28'
 
 
 What's new!
