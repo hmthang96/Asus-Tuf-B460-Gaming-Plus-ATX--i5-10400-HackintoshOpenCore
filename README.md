@@ -2,10 +2,17 @@
 - GPU RX 580 8gb
 - Ram 48Gb
 - Main: Asus Tuf Gaming B460
-- Wifi: DW1560
-- SSD: Micron SATA 1TB
+- Wifi: BCM94360
+- SSD: Micron SATA 1TB + 512Gb
 - Monitor: Samsung 28'
 
+v.0.4.2 : For Asus Tuf Gaming B460M, you patch ACPI from your main before using my EFI
+- Now I use new native device wifi: BCM94360 (Remove some kext of DW1560)
+- CPUFriendProve allow CPU to run from 800Mhz
+- Fix bootloop when upgrade or install Bigsur 11.3
+- XHCIPOrtLimit: Disable
+- 15 port USB working( I disabled Mid Back 2 USB)
+- Update Opencore to 0.6.8 and some kexts.
 
 v0.4.1
 - Now my EFI can use both Catalina and Bigsur. 
