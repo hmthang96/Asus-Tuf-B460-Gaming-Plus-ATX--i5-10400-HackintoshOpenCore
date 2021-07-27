@@ -1,10 +1,22 @@
 - I5 10400
 - GPU RX 580 8gb
-- Ram 48Gb
+- Ram 32Gb
 - Main: Asus Tuf Gaming B460
-- Wifi: BCM94360
+- Wifi: BCM94360cs2
 - SSD: Micron SATA 1TB + 512Gb
 - Monitor: Samsung 28'
+
+v.0.4.3iMacPro1,1: Support Monterey Beta and Update Opencore to 0.7.1 and some kexts
+- work well DRM (Apple Music with Dolby and Lossess audio, Apple TV+, Netflix on Safari, Amazone Video)
+- CPU work from 1Ghz to 4.3 Ghz
+
+v.0.4.3 Mac20.1: Support Monterey Beta and Update Opencore to 0.7.1 and some kexts
+- Fix black screen when hackintosh wakes from sleep.
+- Fix "no sign" when you use multiple monitors.
+- Fix no audio from HDMI source
+Support Gaming TUF B460M, you don't need patch APCI anymore. Just download and use it...
+
+
 
 v.0.4.2 : For Asus Tuf Gaming B460M, you patch ACPI from your main before using my EFI
 - Now I use new native device wifi: BCM94360 (Remove some kext of DW1560)
