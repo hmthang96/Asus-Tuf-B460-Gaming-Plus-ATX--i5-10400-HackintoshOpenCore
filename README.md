@@ -1,3 +1,5 @@
+- I don't have this mainboard anymore, so if it work on Monterey please tell me!
+
 - I5 10400
 - GPU RX 580 8gb
 - Ram 32Gb
